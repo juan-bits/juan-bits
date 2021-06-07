@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @juan-bits.
-- 📆 Working on Bits & Byte Global.
+- 📆 Working on Bits & Byte Global - https://www.bitsnbyteglobal.com/
 - 📫 You can reach me by searching my personal account here on github @zonarolo - https://github.com/zonarolo
 
 <!---
